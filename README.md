@@ -1,2 +1,2 @@
-# myPortfolio
-Content required for rrd7@njit.edu website;
+# myPortfolio website: InProgress
+Connect via email rrd7@njit.edu for now;
